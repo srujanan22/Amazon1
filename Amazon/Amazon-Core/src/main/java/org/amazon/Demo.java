@@ -5,7 +5,7 @@ public class Demo {
        String data="Test";
        String  test = "Test";
 
-        System.out.println("Added ");
+        System.out.println("Added file");
 
        Connection connection = Connection.getInstance();
        connection.insertData();
